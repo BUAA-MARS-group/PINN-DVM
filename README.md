@@ -3,9 +3,9 @@
 This repository contains the implementation of **PINN-DVM**, corresponding to:
 
 **Linying Zhang, et al.**  
-*Simulation of rarefied gas flows using physics-informed neural network combined with discrete velocity method.*  
+[*Simulation of rarefied gas flows using physics-informed neural network combined with discrete velocity method.*](https://doi.org/10.1063/5.0156404)
+
 **Physics of Fluids** 35, 077124 (2023).  
-https://doi.org/10.1063/5.0156404
 
 ---
 
