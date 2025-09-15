@@ -26,6 +26,7 @@ Each case lives in its own folder. To run a case, `cd` into that folder and exec
 
 ```bash
 python main.py
+```
 
 ## Dependencies
 
